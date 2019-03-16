@@ -19,4 +19,3 @@ nav-menu: true
 		<p>Contextual Camouflage is an open-source gallery art installation built in RoR that guides visitors to anonymously report mental health disorders that affect themselves or their relationships. After users submit a disorder, they have the option to include anecdotes and demographic data for intervention researchers. The data is molded into an interactive real-time display using ActionCable. Come see how code can double as art and an educational tool.</p>
 	</div>
 </div>
-
