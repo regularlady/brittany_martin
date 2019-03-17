@@ -3,6 +3,7 @@ layout: post
 title: How to Deploy Rails with AWS CodeDeploy
 description: Step by step instructions for deploying an RoR application on AWS
 image: assets/images/pic06.jpg
+show_tile: false
 ---
 
 Now that I'm working at a large non-profit, I'm getting to stretch my DevOps skills a bit farther (with the help of our awesome Ops team). As we're moving our Rails app from version 2 to 4, it was time to see if we could retire the legacy application that we maintained to deploy the old app to production.

@@ -1,10 +1,10 @@
 ---
-layout: landing
+layout: post
 title: Speaking
 image: assets/images/pic12.jpg
-description: 'Foo'
+description: Past and future speaking engagements
 nav-menu: true
-show_tile: true
+show_tile: false
 ---
 
 <!-- Content -->

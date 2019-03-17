@@ -5,13 +5,9 @@ email: brittany.jill.martin@gmail.com
 description:
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
-author:
-street_address:
 city: Pittsburgh
 state: PA
-zip_code: 15222
-country: United States of America
-phone:
+country: USA
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"

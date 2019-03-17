@@ -3,6 +3,7 @@ layout: post
 title: The Joys and Challenges of Hiring Developer Bootcamp Grads
 description: Hiring bootcamp graduates is worth it, if you have the right resources.
 image: assets/images/pic05.jpg
+show_tile: false
 ---
 
 I was recently asked to speak on a _Winning the Talent War: Building a Diverse Community of Junior Developers & Technical Talent_ panel in Pittsburgh. The idea was to gather HR executives to listen to tech talks and a panel discussion around solving Pittsburgh's small tech talent pool. Sadly, the event was canceled.

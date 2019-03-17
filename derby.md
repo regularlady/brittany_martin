@@ -1,8 +1,8 @@
 ---
 layout: post
-title: About Me
-description: About Brittany Martin
-image: assets/images/pic11.jpg
+title: Roller Derby
+description: Player, Bench Manager and Referee
+image: assets/images/pic15.jpg
 nav-menu: true
 show_tile: true
 ---
