@@ -1,8 +1,10 @@
 ---
-layout: post
+layout: landing
 title: Speaking
 image: assets/images/pic12.jpg
+description: 'Foo'
 nav-menu: true
+show_tile: true
 ---
 
 <!-- Content -->

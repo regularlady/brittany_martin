@@ -4,6 +4,7 @@ layout: landing
 description: 'Hosting and appearances'
 image: assets/images/pic07.jpg
 nav-menu: true
+show_tile: true
 ---
 
 <!-- Main -->

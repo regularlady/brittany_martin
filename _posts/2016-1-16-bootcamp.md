@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Joys and Challenges of Hiring Developer Bootcamp Grads
-description: Ipsum dolor sit amet
+description: Hiring bootcamp graduates is worth it, if you have the right resources.
 image: assets/images/pic05.jpg
 ---
 
