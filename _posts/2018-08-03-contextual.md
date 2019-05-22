@@ -20,7 +20,7 @@ The pride I felt as our talent Storytellers bared their souls in front of the in
 
 We have plans to continue to build out the project and to host the installation in more locations. If you are interesting in contributing or collaborating, please contact me. 
 
-__Draw A Crowd | Railsconf Video & Slides__
+__Speaking__
 
 [http://confreaks.tv/videos/railsconf2018-draw-a-crowd](http://confreaks.tv/videos/railsconf2018-draw-a-crowd)
 
