@@ -31,8 +31,8 @@ show_tile: true
 				<input type="text" name="timezone" id="timezone" />
 			</div>
 			<div class="field">
-				<label for="message">Topics to Discuss</label>
-				<textarea name="message" id="message" rows="6"></textarea>
+				<label for="topics">Topics to Discuss</label>
+				<textarea name="topics" id="topics" rows="6"></textarea>
 			</div>
 			<div class="field">
 				<label for="message">Why Would You Make a Great Guest?</label>
