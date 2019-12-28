@@ -4,7 +4,7 @@ title: Speaking
 image: assets/images/pic12.jpg
 description: Past and future speaking engagements
 nav-menu: true
-show_tile: false
+show_tile: true
 ---
 
 <!-- Content -->

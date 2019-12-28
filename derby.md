@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Roller Derby
-description: Player, Bench Manager and Referee
+description: Player, President and Referee
 image: assets/images/pic15.jpg
 nav-menu: true
-show_tile: true
+show_tile: false
 ---
 
-My sister, Blue's Clueless, introduced me to roller derby in 2017. I currently play for the Youngstown Little Steel Derby Girls and the Pittsburgh East Roller Villains. The roller derby community is incredibly fortunate to have talented photographers to capture moments. 
+My sister, Blue's Clueless, introduced me to roller derby in 2017. I currently play for the Youngstown Little Steel Derby Girls. The roller derby community is incredibly fortunate to have talented photographers to capture moments. 
 
 <span class="image fit"><img src="../assets/images/derby/8.jpg" alt="" /></span>
 <div class="box alt">

@@ -13,7 +13,7 @@ Brittany moved to San Francisco for two years, becoming a software developer in 
 
 Brittany's education includes a Marketing degree from the University of Pittsburgh, an MBA from Robert Morris University and a completed Rails & Frontend apprenticeship with Bloc.io. Her favorite books are The Power of Habit by Charles Duhigg, The Hard Thing About Hard Things by Ben Horowitz and the Dark Tower Series by Stephen King.
 
-By night, she plays roller derby for Youngstown's Little Steel Derby Girls and the Pittsburgh East Roller Villains's Gall Capones and bench managing the Pittsburgh Blue Streaks under her alter-ego, Norma Skates.
+By night, she plays roller derby for Youngstown's Little Steel Derby Girls under her alter-ego, Norma Skates. She is their current president. She is also a Les Mills certified BodyPUMP instructor, teaching at her local YMCA. 
 
 She is the host of the Ruby on Rails podcast on the 5 by 5 Network.
 
