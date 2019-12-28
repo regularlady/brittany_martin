@@ -62,6 +62,22 @@ show_tile: true
 		</div>
 	</div>
 </section>
+<section>
+	<a href="https://bikeshed.fm/episodes/218" class="image">
+		<img src="../assets/images/pic19.jpg" alt="" data-position="center center" />
+	</a>
+	<div class="content">
+		<div class="inner">
+			<header class="major">
+				<h3>The Bikeshed</h3>
+			</header>
+			<p>Steph is joined by Brittany Martin, an avid Rubyist and the host of the Ruby on Rails Podcast. They discuss Brittany's passion for roller derby and her upcoming Ruby conference talk: "Hire Me, I'm Excellent at Quitting." They also discuss using AWS Serverless, troubleshooting Postgress connection errors and working with Google Pay and Apple Wallet to introduce digital tickets.</p>
+			<ul class="actions">
+				<li><a href="https://bikeshed.fm/episodes/218" class="button" target="_blank">Listen</a></li>
+			</ul>
+		</div>
+	</div>
+</section>
 	<section>
 		<a href="https://remoteruby.transistor.fm/19" class="image">
 			<img src="../assets/images/pic08.jpg" alt="" data-position="center center" />
