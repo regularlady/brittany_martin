@@ -14,7 +14,7 @@ show_tile: true
 		<h3>I'm Altering the Deal</h3>
 		<h4>ParisRB 2020</h4>
 		<p>Imagine your legacy production Ruby application is highly dependent on a third-party API as you learn your vendor deprecates your current connection. What do you do when you're forced to make a change? Accept the challenge by embracing abstractions, switching libraries, feature flags, edge-case testing while developing new features. Game on.</p>
-		<p><a href="https://2020.rubyparis.org">Attend</a></p>
+		<p><a href="https://www.youtube.com/watch?v=WKYUNN9I0C0">Video</a></p>
 	</div>
 	<div class="6u 12u$(small)">
 		<h3>Hire Me: I'm Excellent At Quitting</h3>
