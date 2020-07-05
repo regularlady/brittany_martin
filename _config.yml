@@ -2,7 +2,7 @@
 title: Brittany Martin
 subtitle: Developer | Podcaster | Fitness Advocate
 email: brittany.jill.martin@gmail.com
-description: Developer | Podcaster | Fitness Advocate
+description: Developer | Podcaster | Skater
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: //brittanymartin.dev
 city: Pittsburgh
@@ -16,7 +16,7 @@ tiles-count: 6
 # social settings
 500px_url:
 facebook_url:
-github_url: https://github.com/wonderwoman13
+github_url: https://github.com/regularlady
 instagram_url: https://instagram.com/wonderwomaninthemaking
 linkedin_url: https://www.linkedin.com/in/brittanyjmartin1
 pinterest_url:
