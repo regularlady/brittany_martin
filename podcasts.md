@@ -101,9 +101,9 @@ show_tile: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>The Ruby Testing Podcast</h3>
+					<h3>The Ruby Blend</h3>
 				</header>
-				<p>In this episode I talk with Brittany Martin, co-host of the Ruby on Rails Podcast, about her career story and how she got started with Ruby testing.</p>
+				<p>We have a special guest, Brittany Martin, who is Lead Web Developer for the Pittsburgh Cultural Trust, where she is part of a team that develops the non-profits ticketing and festival web application and is also the host of the Ruby on Rails Podcast on the 5 by 5 Network. Brittany is here to tell us all about what she does, gem wrappers, and she is seeking some counsel from the guys today on various things. We talk about how important Readme's are, useful tools for documentations, a project from Evil Martians, a gem called Combustion, and RSpec API documentation is discussed. We end with Brittany telling us all about her passion for being in the Roller derby.</p>
 				<ul class="actions">
 					<li><a href="http://www.rubytestingpodcast.com/brittany-martin" class="button" target="_blank">Listen</a></li>
 				</ul>
