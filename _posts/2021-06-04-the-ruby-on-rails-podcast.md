@@ -42,7 +42,7 @@ Q: Rotation of co-hosts, you say? What does that mean?
 
 A: While I (Brittany) have been the main voice of the show over the last few years, there are some guests that regularly return to 
 provide updates on the interesting work they are doing in the Ruby space. For that reason, we are establishing a regular cast of
-co-hosts to drop in on episodes. Guest interviews will be peppered in as well. 
+co-hosts to drop in on episodes. Nick Schwaderer will definitely be one! Guest interviews will be peppered in as well. 
 
 Q: If I'm subscribed to the 5by5 Ruby on Rails podcast, do I need to make any changes to be subscribed to The Ruby on Rails Podcast?
 
@@ -60,7 +60,7 @@ A: A new design for one tied to together with a perfect example of why Mirror Pl
 Quoting from Brian, "The dual circles around the Ruby relate to a number of things: Rails (we tried making it look more like a train track and it was... not good), 
 the second life and phase of the podcast and to signify that you have an occasional co-host."
 
-![logo](/assets/pic22.jpg)
+![logo](../assets/pic22.jpg)
 
 Expect more changes as we gather feedback from guests, hosts and our listeners. 
 
