@@ -12,7 +12,7 @@ show_tile: true
 
 <div class="inner">
 	<section>
-		<h3> Be a Guest on the 5 by 5 Ruby on Rails Podcast </h3>
+		<h3> Be a Guest on The Ruby on Rails Podcast </h3>
 		<form action="https://formspree.io/{{ site.email }}" method="POST">
 			<div class="field half first">
 				<label for="name">Name</label>
