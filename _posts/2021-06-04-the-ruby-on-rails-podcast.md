@@ -66,7 +66,7 @@ Expect more changes as we gather feedback from guests, hosts and our listeners.
 
 Q: Are there sponsorship opportunities? 
 
-A: Absolutely, please reach out to Fred DiStefano at fred@mirrorplacement.com to learn more. 
+A: Absolutely, please reach out to Fred DiStefano at sponsors@therubyonrailspodcast.com to learn more. 
 
 Q: I'm interested in being a guest. How do I reach out? 
 
