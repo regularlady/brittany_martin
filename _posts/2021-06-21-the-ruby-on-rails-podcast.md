@@ -30,7 +30,7 @@ I wanted to pay homage to that.
 
 Q: Where will I be able to access the podcast? 
 
-A: It's new home is on Fireside [here](https://therubyonrailspodcast.fireside.fm).
+A: It's new home is on Fireside [here](https://therubyonrailspodcast.com).
 
 Q: Who is your producing partner? How will they be involved?
 
@@ -52,7 +52,8 @@ will be available in the new feed.
 Q: How about improvements in audio quality? 
 
 A: I'm SO ready for this question. Over the years, I have learned a lot about equipment, editing and sound proofing my tiny closet. That being
-said, it's time to take it to the next level. We have hired an editor to edit the shows going forward. I am stoked!
+said, it's time to take it to the next level. We have hired an editor to edit the shows going forward. I am stoked and excited to be working with 
+Paul at Peachtree Sound. 
 
 Q: What other changes can we expect? 
 
@@ -70,7 +71,7 @@ A: Absolutely, please reach out to Fred DiStefano at sponsors@therubyonrailspodc
 
 Q: I'm interested in being a guest. How do I reach out? 
 
-A: Please reach out to me [here](https://brittanymartin.dev/podcasts/).
+A: Please reach out to me [here](https://www.therubyonrailspodcast.com/contact).
 
 __Gratitude__
 

@@ -10,41 +10,6 @@ show_tile: true
 <!-- Main -->
 <div id="main">
 
-<div class="inner">
-	<section>
-		<h3> Be a Guest on The Ruby on Rails Podcast </h3>
-		<form action="https://formspree.io/{{ site.email }}" method="POST">
-			<div class="field half first">
-				<label for="name">Name</label>
-				<input type="text" name="name" id="name" />
-			</div>
-			<div class="field half">
-				<label for="email">Email</label>
-				<input type="text" name="email" id="email" />
-			</div>
-			<div class="field half first">
-				<label for="availability">Availability to Record</label>
-				<input type="text" name="availability" id="availability" />
-			</div>
-			<div class="field half">
-				<label for="availability">Timezone</label>
-				<input type="text" name="timezone" id="timezone" />
-			</div>
-			<div class="field">
-				<label for="topics">Topics to Discuss</label>
-				<textarea name="topics" id="topics" rows="6"></textarea>
-			</div>
-			<div class="field">
-				<label for="message">Why Would You Make a Great Guest?</label>
-				<textarea name="why" id="why" rows="6"></textarea>
-			</div>
-			<ul class="actions">
-				<li><input type="submit" value="Request" class="special" /></li>
-				<li><input type="reset" value="Clear" /></li>
-			</ul>
-		</form>
-	</section>
-</div>
 <section id="two" class="spotlights">
 <section>
 	<a href="http://therubyonrailspodcast.com" class="image">
@@ -53,11 +18,27 @@ show_tile: true
 	<div class="content">
 		<div class="inner">
 			<header class="major">
-				<h3>Host of the Ruby on Rails Podcast</h3>
+				<h3>Host of The Ruby on Rails Podcast</h3>
 			</header>
 			<p>As a long time listener of the podcast, I came on as a rotating co-host in 2018. Eventually, I took over as a solo host, using the platform to speak to my heroes in the Ruby, Rails, open source and technology space. A personal goal is to elevate voices that have not been heard in our community yet.</p>
 			<ul class="actions">
 				<li><a href="http://therubyonrailspodcast.com" class="button" target="_blank">Listen</a></li>
+			</ul>
+		</div>
+	</div>
+</section>
+<section>
+	<a href="https://www.codewithjason.com/rails-with-jason-podcast/episodes/brittany-martin-SKJrBvWw/" class="image">
+		<img src="../assets/images/pic25.jpg" alt="" data-position="center center" />
+	</a>
+	<div class="content">
+		<div class="inner">
+			<header class="major">
+				<h3>Rails with Jason</h3>
+			</header>
+			<p>n this episode I talk with Brittany Martin, Lead Web Developer at the Pittsburgh Cultural Trust and host of the 5x5 Ruby on Rails Podcast. Brittany and I talk about working successfully with poor-quality APIs, whether to extract application code into gems or not, and, of course, roller derby.</p>
+			<ul class="actions">
+				<li><a href="https://www.codewithjason.com/rails-with-jason-podcast/episodes/brittany-martin-SKJrBvWw/" class="button" target="_blank">Listen</a></li>
 			</ul>
 		</div>
 	</div>
