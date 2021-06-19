@@ -47,17 +47,17 @@ show_tile: true
 </div>
 <section id="two" class="spotlights">
 <section>
-	<a href="http://5by5.tv/rubyonrails" class="image">
-		<img src="../assets/images/pic13.jpg" alt="" data-position="center center" />
+	<a href="http://therubyonrailspodcast.com" class="image">
+		<img src="../assets/images/pic22.jpg" alt="" data-position="center center" />
 	</a>
 	<div class="content">
 		<div class="inner">
 			<header class="major">
-				<h3>Host of the 5 by 5 Ruby on Rails Podcast</h3>
+				<h3>Host of the Ruby on Rails Podcast</h3>
 			</header>
 			<p>As a long time listener of the podcast, I came on as a rotating co-host in 2018. Eventually, I took over as a solo host, using the platform to speak to my heroes in the Ruby, Rails, open source and technology space. A personal goal is to elevate voices that have not been heard in our community yet.</p>
 			<ul class="actions">
-				<li><a href="http://5by5.tv/rubyonrails" class="button" target="_blank">Listen</a></li>
+				<li><a href="http://therubyonrailspodcast.com" class="button" target="_blank">Listen</a></li>
 			</ul>
 		</div>
 	</div>
