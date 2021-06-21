@@ -61,8 +61,6 @@ A: A new design for one tied to together with a perfect example of why Mirror Pl
 Quoting from Brian, "The dual circles around the Ruby relate to a number of things: Rails (we tried making it look more like a train track and it was... not good), 
 the second life and phase of the podcast and to signify that you have an occasional co-host."
 
-![logo](../assets/images/pic22.jpg)
-
 Expect more changes as we gather feedback from guests, hosts and our listeners. 
 
 Q: Are there sponsorship opportunities? 
